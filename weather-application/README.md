@@ -1,1 +1,0 @@
-# Swagger Express Mongoose Node Mongo
